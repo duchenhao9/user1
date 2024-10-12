@@ -1,0 +1,8 @@
+# 站点信息维特_网站_名称= "hxdの主页" # 名称VITE_SITE_AUTHOR = "号作者VITE_SITE_KEYWORDS = "hxd，个人主页" # 关键词VITE_SITE_DES = "一个默默无闻的主页" # 站点简介VITE_SITE_URL = "imsyy.top" #站点地址VITE _ SITE _ LOGO = "/images/icon/favicon。ico " #站点主图标VITE _ SITE _ MAIN _ LOGO = "/images/icon/LOGO。png " #主页图标VITE _ SITE _ APPLE _ LOGO = "/images/LOGO/APPLE-touch-icon。png " #苹果端图标
+# 简介文本VITE_DESC_HELLO = "Hello World！"VITE_DESC_TEXT = "一个建立于 21 世纪的小站,存活于互联网的边缘"维特_ desc _你好_其他= "哎呀!"VITE_DESC_TEXT_OTHER = "哎呀,这都被你发现了（再点击一次可关闭 )"
+# 社交链接## 请在src/assets/socialLinks.json文件中配置
+# 网站链接## 请在src/assets/siteLinks.json文件中配置## 网站链接的图标名称可前往https://www.xicons.org自行挑选并在src/components/Links/index.vue中引入
+# 天气键##请前往 高德开放平台注册网服务键##请注意不是网端(JS API)，免费申请,每日上限 5000 次## 此处提供的服务可能会超量从而无法访问,请自行申请！请自行申请！请自行申请！## 若此处设为空则调用 教书先生API https://API。oioweb。cn/doc/WEATHER/GetWeatherVITE _ WEATHER _ KEY = " "
+# 建站日期## 若不需要,请设为空即可## 请按照年-月-日格式填写或者仅填写年份YYYYVITE _ SITE _ START = " 2020-10-24 "
+#国际比较方案备案号## 若不需要,请设为空即可VITE_SITE_ICP = "豫电感耦合等离子体(电感耦合等离子体)备2022018134号-1"
+# 歌曲应用程序接口地址## 请参照https://github.com/xizeyoupan/Meting-API#deno-deploy进行应用程序接口服务部署## 此处提供的服务可能会超量从而无法访问,请自行部署## 若使用即时通信软件音乐歌单,歌曲数量最好不要超出 50 首## 备用:https://API。吴恩慈。com/meting/API/VITE _ SONG _ API = " https://API-meting。imsyy。top/API " #歌曲服务器（网易-网易云,腾讯-qq音乐)VITE_SONG_SERVER = "网易" #播放类型（宋-歌曲,播放列表-播放列表,相册-专辑,搜索-搜索,艺术家-艺术家)VITE_SONG_TYPE = "playlist"#播放ID(若无需播放器,请设为空即可)VITE_SONG_ID = "9379831714"
